@@ -168,8 +168,8 @@ endif::env-github[]
 CMAK operator comprises following components:
 
 * https://github.com/yahoo/CMAK/[CMAK],
-  powered by https://hub.docker.com/r/hlebalbau/kafka-manager/[Docker image]
-  from https://github.com/hleb-albau/kafka-manager-docker[@hleb-albau].
+  powered by https://hub.docker.com/r/barisgece/cmak-docker/[Docker image]
+  from https://github.com/BarisGece/infra-development/tree/main/kafka-on-kubernetes/cmak/docker[@hleb-albau].
 * https://zookeeper.apache.org/[Apache ZooKeeper],
   powered by https://hub.docker.com/_/zookeeper/[official Docker image].
 * Custom https://hub.docker.com/repository/docker/eshepelyuk/cmak2zk[cmak2zk tool],
